@@ -1,7 +1,7 @@
 mooniker
 ========
 
-A small console Java application to rename all files in a directory. It's ideal for torrented files, where all the downloads have silly things like "[HD] [SuperTorrents] [1080p]".
+A small console Java application to rename all files in a directory. It's ideal for renaming files from a camera that have unhelpful names like DCIM42 or IMAG0124.
 
 
 Instructions for Use
